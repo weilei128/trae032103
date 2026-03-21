@@ -1,0 +1,285 @@
+# Created at 2026-03-21T17:28:17.546
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: null
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:750)
+
+
+# Created at 2026-03-21T17:28:20.236
+Unexpected IOException with stream: 2026-03-21 17:28:20.234  INFO 26728 --- [           main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+
+
+# Created at 2026-03-21T17:28:21.138
+Unexpected IOException with stream: 2026-03-21 17:28:21.137  INFO 26728 --- [           main] c.e.memo.service.MemoServiceBugFixTest   : Started MemoServiceBugFixTest in 6.026 seconds (JVM running for 7.701)
+
+
+# Created at 2026-03-21T17:28:21.190
+Unexpected IOException: 5,1,com.example.memo.service.MemoServiceBugFixTest,testAllMemosIncludingDivisibleBy7Seconds,null,null,null
+
+
+# Created at 2026-03-21T17:28:21.747
+Unexpected IOException: 7,1,com.example.memo.service.MemoServiceBugFixTest,testAllMemosIncludingDivisibleBy7Seconds,null,Unresolved compilation problem: \000A\0009Type mismatch: cannot convert from Memo to boolean\000A,null,Unresolved compilation problem: \000A\0009Type mismatch: cannot convert from Memo to boolean\000A,MemoServiceBugFixTest.testAllMemosIncludingDivisibleBy7Seconds:56  Unresolved ...,java.lang.Error: \000AUnresolved compilation problem: \000A\0009Type mismatch: cannot convert from Memo to boolean\000A\000A\0009at com.example.memo.service.MemoServiceBugFixTest.testAllMemosIncludingDivisibleBy7Seconds(MemoServiceBugFixTest.java:56)\000A
+
+
+# Created at 2026-03-21T17:28:21.750
+Unexpected IOException: 5,1,com.example.memo.service.MemoServiceBugFixTest,testMemoVisibilityAtSpecificSeconds,null,null,null
+
+
+# Created at 2026-03-21T17:28:21.760
+Unexpected IOException with stream: 备忘录ID: 60, 创建时间秒数: 59
+
+
+# Created at 2026-03-21T17:28:21.761
+Unexpected IOException with stream: 备忘录ID: 59, 创建时间秒数: 58
+
+
+# Created at 2026-03-21T17:28:21.763
+Unexpected IOException with stream: 备忘录ID: 58, 创建时间秒数: 57
+
+
+# Created at 2026-03-21T17:28:21.764
+Unexpected IOException with stream: 备忘录ID: 57, 创建时间秒数: 56
+
+
+# Created at 2026-03-21T17:28:21.766
+Unexpected IOException with stream: 备忘录ID: 56, 创建时间秒数: 55
+
+
+# Created at 2026-03-21T17:28:21.768
+Unexpected IOException with stream: 备忘录ID: 55, 创建时间秒数: 54
+
+
+# Created at 2026-03-21T17:28:21.768
+Unexpected IOException with stream: 备忘录ID: 54, 创建时间秒数: 53
+
+
+# Created at 2026-03-21T17:28:21.770
+Unexpected IOException with stream: 备忘录ID: 53, 创建时间秒数: 52
+
+
+# Created at 2026-03-21T17:28:21.771
+Unexpected IOException with stream: 备忘录ID: 52, 创建时间秒数: 51
+
+
+# Created at 2026-03-21T17:28:21.773
+Unexpected IOException with stream: 备忘录ID: 51, 创建时间秒数: 50
+
+
+# Created at 2026-03-21T17:28:21.774
+Unexpected IOException with stream: 备忘录ID: 50, 创建时间秒数: 49
+
+
+# Created at 2026-03-21T17:28:21.775
+Unexpected IOException with stream: 备忘录ID: 49, 创建时间秒数: 48
+
+
+# Created at 2026-03-21T17:28:21.776
+Unexpected IOException with stream: 备忘录ID: 48, 创建时间秒数: 47
+
+
+# Created at 2026-03-21T17:28:21.777
+Unexpected IOException with stream: 备忘录ID: 47, 创建时间秒数: 46
+
+
+# Created at 2026-03-21T17:28:21.778
+Unexpected IOException with stream: 备忘录ID: 46, 创建时间秒数: 45
+
+
+# Created at 2026-03-21T17:28:21.779
+Unexpected IOException with stream: 备忘录ID: 45, 创建时间秒数: 44
+
+
+# Created at 2026-03-21T17:28:21.780
+Unexpected IOException with stream: 备忘录ID: 44, 创建时间秒数: 43
+
+
+# Created at 2026-03-21T17:28:21.782
+Unexpected IOException with stream: 备忘录ID: 43, 创建时间秒数: 42
+
+
+# Created at 2026-03-21T17:28:21.785
+Unexpected IOException with stream: 备忘录ID: 42, 创建时间秒数: 41
+
+
+# Created at 2026-03-21T17:28:21.786
+Unexpected IOException with stream: 备忘录ID: 41, 创建时间秒数: 40
+
+
+# Created at 2026-03-21T17:28:21.787
+Unexpected IOException with stream: 备忘录ID: 40, 创建时间秒数: 39
+
+
+# Created at 2026-03-21T17:28:21.788
+Unexpected IOException with stream: 备忘录ID: 39, 创建时间秒数: 38
+
+
+# Created at 2026-03-21T17:28:21.789
+Unexpected IOException with stream: 备忘录ID: 38, 创建时间秒数: 37
+
+
+# Created at 2026-03-21T17:28:21.791
+Unexpected IOException with stream: 备忘录ID: 37, 创建时间秒数: 36
+
+
+# Created at 2026-03-21T17:28:21.792
+Unexpected IOException with stream: 备忘录ID: 36, 创建时间秒数: 35
+
+
+# Created at 2026-03-21T17:28:21.793
+Unexpected IOException with stream: 备忘录ID: 35, 创建时间秒数: 34
+
+
+# Created at 2026-03-21T17:28:21.794
+Unexpected IOException with stream: 备忘录ID: 34, 创建时间秒数: 33
+
+
+# Created at 2026-03-21T17:28:21.795
+Unexpected IOException with stream: 备忘录ID: 33, 创建时间秒数: 32
+
+
+# Created at 2026-03-21T17:28:21.797
+Unexpected IOException with stream: 备忘录ID: 32, 创建时间秒数: 31
+
+
+# Created at 2026-03-21T17:28:21.799
+Unexpected IOException with stream: 备忘录ID: 31, 创建时间秒数: 30
+
+
+# Created at 2026-03-21T17:28:21.800
+Unexpected IOException with stream: 备忘录ID: 30, 创建时间秒数: 29
+
+
+# Created at 2026-03-21T17:28:21.801
+Unexpected IOException with stream: 备忘录ID: 29, 创建时间秒数: 28
+
+
+# Created at 2026-03-21T17:28:21.802
+Unexpected IOException with stream: 备忘录ID: 28, 创建时间秒数: 27
+
+
+# Created at 2026-03-21T17:28:21.803
+Unexpected IOException with stream: 备忘录ID: 27, 创建时间秒数: 26
+
+
+# Created at 2026-03-21T17:28:21.805
+Unexpected IOException with stream: 备忘录ID: 26, 创建时间秒数: 25
+
+
+# Created at 2026-03-21T17:28:21.807
+Unexpected IOException with stream: 备忘录ID: 25, 创建时间秒数: 24
+
+
+# Created at 2026-03-21T17:28:21.808
+Unexpected IOException with stream: 备忘录ID: 24, 创建时间秒数: 23
+
+
+# Created at 2026-03-21T17:28:21.809
+Unexpected IOException with stream: 备忘录ID: 23, 创建时间秒数: 22
+
+
+# Created at 2026-03-21T17:28:21.810
+Unexpected IOException with stream: 备忘录ID: 22, 创建时间秒数: 21
+
+
+# Created at 2026-03-21T17:28:21.811
+Unexpected IOException with stream: 备忘录ID: 21, 创建时间秒数: 20
+
+
+# Created at 2026-03-21T17:28:21.812
+Unexpected IOException with stream: 备忘录ID: 20, 创建时间秒数: 19
+
+
+# Created at 2026-03-21T17:28:21.814
+Unexpected IOException with stream: 备忘录ID: 19, 创建时间秒数: 18
+
+
+# Created at 2026-03-21T17:28:21.815
+Unexpected IOException with stream: 备忘录ID: 18, 创建时间秒数: 17
+
+
+# Created at 2026-03-21T17:28:21.817
+Unexpected IOException with stream: 备忘录ID: 17, 创建时间秒数: 16
+
+
+# Created at 2026-03-21T17:28:21.817
+Unexpected IOException with stream: 备忘录ID: 16, 创建时间秒数: 15
+
+
+# Created at 2026-03-21T17:28:21.818
+Unexpected IOException with stream: 备忘录ID: 15, 创建时间秒数: 14
+
+
+# Created at 2026-03-21T17:28:21.819
+Unexpected IOException with stream: 备忘录ID: 14, 创建时间秒数: 13
+
+
+# Created at 2026-03-21T17:28:21.820
+Unexpected IOException with stream: 备忘录ID: 13, 创建时间秒数: 12
+
+
+# Created at 2026-03-21T17:28:21.821
+Unexpected IOException with stream: 备忘录ID: 12, 创建时间秒数: 11
+
+
+# Created at 2026-03-21T17:28:21.823
+Unexpected IOException with stream: 备忘录ID: 11, 创建时间秒数: 10
+
+
+# Created at 2026-03-21T17:28:21.823
+Unexpected IOException with stream: 备忘录ID: 10, 创建时间秒数: 9
+
+
+# Created at 2026-03-21T17:28:21.824
+Unexpected IOException with stream: 备忘录ID: 9, 创建时间秒数: 8
+
+
+# Created at 2026-03-21T17:28:21.825
+Unexpected IOException with stream: 备忘录ID: 8, 创建时间秒数: 7
+
+
+# Created at 2026-03-21T17:28:21.826
+Unexpected IOException with stream: 备忘录ID: 7, 创建时间秒数: 6
+
+
+# Created at 2026-03-21T17:28:21.828
+Unexpected IOException with stream: 备忘录ID: 6, 创建时间秒数: 5
+
+
+# Created at 2026-03-21T17:28:21.829
+Unexpected IOException with stream: 备忘录ID: 5, 创建时间秒数: 4
+
+
+# Created at 2026-03-21T17:28:21.830
+Unexpected IOException with stream: 备忘录ID: 4, 创建时间秒数: 3
+
+
+# Created at 2026-03-21T17:28:21.833
+Unexpected IOException with stream: 备忘录ID: 3, 创建时间秒数: 2
+
+
+# Created at 2026-03-21T17:28:21.834
+Unexpected IOException with stream: 备忘录ID: 2, 创建时间秒数: 1
+
+
+# Created at 2026-03-21T17:28:21.836
+Unexpected IOException with stream: 备忘录ID: 1, 创建时间秒数: 0
+
+
+# Created at 2026-03-21T17:28:21.845
+Unexpected IOException: 6,1,com.example.memo.service.MemoServiceBugFixTest,testMemoVisibilityAtSpecificSeconds,null,null,null
+
+
+# Created at 2026-03-21T17:28:21.848
+Unexpected IOException: 5,1,com.example.memo.service.MemoServiceBugFixTest,testComparisonBetweenGetAllAndGetById,null,null,null
+
+
+# Created at 2026-03-21T17:28:21.855
+Unexpected IOException: 7,1,com.example.memo.service.MemoServiceBugFixTest,testComparisonBetweenGetAllAndGetById,null,Unresolved compilation problem: \000A\0009Local variable i is required to be final or effectively final based on its usage\000A,null,Unresolved compilation problem: \000A\0009Local variable i is required to be final or effectively final based on its usage\000A,MemoServiceBugFixTest.testComparisonBetweenGetAllAndGetById:95  Unresolved com...,java.lang.Error: \000AUnresolved compilation problem: \000A\0009Local variable i is required to be final or effectively final based on its usage\000A\000A\0009at com.example.memo.service.MemoServiceBugFixTest.testComparisonBetweenGetAllAndGetById(MemoServiceBugFixTest.java:95)\000A
+
+
+# Created at 2026-03-21T17:28:21.859
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,com.example.memo.service.MemoServiceBugFixTest,null,null,null
+
+
